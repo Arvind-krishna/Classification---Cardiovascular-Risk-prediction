@@ -1,6 +1,6 @@
 # **Cardiovascular Risk Prediction**
 
-This project is the third capstone project we've done in our [Almabetter](https://almabetter.com) Data science curriculam. All the models we have developed in this project will be heavily based on classification since we have to predict a binary dependent variable, which in this case is **10YearCHD**. It depicts if the patient is at risk or not.
+This project is the third capstone project we've done in our [Almabetter](https://almabetter.com) Data science curriculum. All the models we have developed in this project will be heavily based on classification since we have to predict a binary dependent variable, which in this case is **10YearCHD**. It depicts if the patient is at risk or not.
 
 ## **Introduction**
 
